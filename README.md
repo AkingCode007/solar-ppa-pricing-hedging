@@ -10,6 +10,16 @@ The project addresses the following question:
 
 Using public European power-market data, the analysis will model the hourly economics of a solar PPA, quantify its main market risks and compare alternative hedging strategies.
 
+
+## Installation
+
+Create a virtual environment and install the project dependencies:
+
+    py -m venv .venv
+    .\.venv\Scripts\Activate.ps1
+    python -m pip install -r requirements.txt
+
+
 ## Project Scope
 
 ### 1. Market Data & Solar Profile
